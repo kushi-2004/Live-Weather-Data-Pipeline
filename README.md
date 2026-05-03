@@ -15,5 +15,5 @@ This project is a mini data engineering pipeline that fetches live weather data 
 
 ## 📖 How to Use
 1. Get your API Key from [OpenWeatherMap](https://openweathermap.org/).
-2. Run the `weather_pipeline.ipynb` file.
+2. Run the `untitled4.ipynb` file.
 3. Check `live_weather.db` for stored records.
